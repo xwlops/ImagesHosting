@@ -11,8 +11,8 @@
         <template>
             <template>Template TCP State</template>
             <name>Template TCP State</name>
-            <description>TCP状态监控模板 - Create by 小柒博客（https://www.yangxingzhen.com）&#13;
-微信公众号：小柒博客</description>
+            <description>TCP状态监控模板 - Create by cnsre运维博客（https://cnsre.cn）&#13;
+</description>
             <groups>
                 <group>
                     <name>Templates</name>
